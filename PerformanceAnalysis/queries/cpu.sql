@@ -1,0 +1,4 @@
+-- SELECT p.name AS process_name, ROUND(SUM(s.dur) / 1000000000.0, 2) AS cpu_time_sec FROM sched s JOIN thread t ON s.utid = t.utid JOIN process p ON t.upid = p.upid GROUP BY p.name ORDER BY cpu_time_sec DESC;
+-- SELECT p.name AS process_name, ROUND(SUM(s.dur) / 1000000000.0, 2) AS cpu_time_sec FROM sched s JOIN thread t ON s.utid = t.utid JOIN process p ON t.upid = p.upid GROUP BY p.name ORDER BY cpu_time_sec DESC; SELECT p.name AS process_name, ROUND(SUM(s.dur) / 1000000000.0, 2) AS cpu_time_sec FROM sched s JOIN thread t ON s.utid = t.utid JOIN process p ON t.upid = p.upid WHERE p.name = 'com.UnityTechnologies.StarterAssetsThirdPerson' GROUP BY p.name;
+
+SELECT p.name AS process_name, ROUND(SUM(s.dur) / 1000000000.0, 2) AS cpu_time_sec FROM sched s JOIN thread t ON s.utid = t.utid JOIN process p ON t.upid = p.upid WHERE p.name = 'com.UnityTechnologies.StarterAssetsThirdPerson' GROUP BY p.name;

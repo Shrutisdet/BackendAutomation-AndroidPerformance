@@ -1,0 +1,80 @@
+CPU_Time,Memory_MB,FPS,Thermal
+
+                                                                                
+> 
+Query executed in 0.005 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> process_name         cpu_time_sec         
+-------------------- -------------------- 
+com.UnityTechnologie             9.980000 
+
+Query executed in 29.909 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+,
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> process_name         peak_memory_mb       
+-------------------- -------------------- 
+com.UnityTechnologie       1388232.000000 
+
+Query executed in 59.806 ms
+
+
+                                                                                
+> 
+,
+                                                                                
+> total_frames         fps                  
+-------------------- -------------------- 
+                 282            28.450000 
+
+Query executed in 0.071 ms
+
+
+                                                                                
+> 
+,
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> thermal_conditioning 
+-------------------- 
+            0.280000 
+
+Query executed in 59.194 ms
+
+
+                                                                                
+> 
+

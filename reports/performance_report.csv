@@ -1,0 +1,208 @@
+cpu-->
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+Query executed in 0.001 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> cpu_time_sec         
+-------------------- 
+            9.980000 
+
+Query executed in 11.019 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+
+memory-->
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> peak_memory_mb       
+-------------------- 
+      1388232.000000 
+
+Query executed in 60.954 ms
+
+
+                                                                                
+> 
+
+fps-->
+                                                                                
+> total_frames         fps                  
+-------------------- -------------------- 
+                 282            28.450000 
+
+Query executed in 0.076 ms
+
+
+                                                                                
+> 
+
+thermalnew-->
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> thermal_conditioning 
+-------------------- 
+            0.280000 
+
+Query executed in 60.300 ms
+
+
+                                                                                
+> 
+
+cpu-->
+                                                                                
+> 
+Query executed in 0.003 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+Query executed in 0.001 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> cpu_time_sec         
+-------------------- 
+            9.980000 
+
+Query executed in 10.657 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+
+memory-->
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> 
+Query executed in 0.001 ms
+
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> If you want to quit either type .q or press CTRL-D (EOF)
+
+                                                                                
+> peak_memory_mb       
+-------------------- 
+      1388232.000000 
+
+Query executed in 51.370 ms
+
+
+                                                                                
+> 
+
+fps-->
+                                                                                
+> total_frames         fps                  
+-------------------- -------------------- 
+                 282            28.450000 
+
+Query executed in 0.050 ms
+
+
+                                                                                
+> 
+
+thermalnew-->
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> 
+Query executed in 0.002 ms
+
+
+                                                                                
+> thermal_conditioning 
+-------------------- 
+            0.280000 
+
+Query executed in 50.108 ms
+
+
+                                                                                
+> 
+

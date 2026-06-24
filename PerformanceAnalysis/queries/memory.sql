@@ -1,0 +1,3 @@
+-- SELECT p.name AS process_name, ROUND(MAX(c.value) / 1024.0, 2) AS peak_memory_mb FROM counter c JOIN process_counter_track pct ON c.track_id = pct.id JOIN process p ON pct.upid = p.upid GROUP BY p.upid, p.name ORDER BY peak_memory_mb DESC;
+
+SELECT p.name AS process_name, ROUND(MAX(c.value) / 1024.0, 2) AS peak_memory_mb FROM counter c JOIN process_counter_track pct ON c.track_id = pct.id JOIN process p ON pct.upid = p.upid WHERE p.name = 'com.UnityTechnologies.StarterAssetsThirdPerson' GROUP BY p.upid, p.name

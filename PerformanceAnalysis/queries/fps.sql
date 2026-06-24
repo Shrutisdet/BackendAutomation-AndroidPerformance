@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total_frames, ROUND(COUNT(*) * 1.0 / ((MAX(ts) - MIN(ts)) / 1000000000.0),2) AS fps FROM actual_frame_timeline_slice;

@@ -1,0 +1,3 @@
+-- SELECT id,name,type FROM track WHERE LOWER(name) LIKE '%cpu%' OR LOWER(name) LIKE '%temp%' OR LOWER(name) LIKE '%thermal%' ORDER BY name;
+-- SELECT ROUND(AVG(value),2) AS thermal_conditioning_temp FROM counter WHERE track_id = 501; SELECT ROUND(AVG(value),2) AS thermal FROM counter WHERE track_id = 501;
+SELECT ROUND(AVG(c.value), 2) AS thermal_conditioning FROM counter c JOIN track t ON c.track_id = t.id WHERE LOWER(t.name) LIKE '%thermal%';
